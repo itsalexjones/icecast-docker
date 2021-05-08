@@ -24,5 +24,3 @@ set_val $ICECAST_LOCATION        location
 set_val $ICECAST_ADMIN           admin
 
 set -e
-
-sudo -Eu icecast2 icecast2 -n -c /etc/icecast2/icecast.xml
